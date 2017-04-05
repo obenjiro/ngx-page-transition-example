@@ -1,0 +1,9 @@
+:host {
+  background: lightcoral;
+  display: block;
+}
+
+
+p {
+  height: 300px;
+}
